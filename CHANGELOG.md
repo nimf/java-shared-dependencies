@@ -1,5 +1,22 @@
 # Changelog
 
+### [1.3.1](https://www.github.com/googleapis/java-shared-dependencies/compare/1.3.0...v1.3.1) (2021-06-18)
+
+
+### Bug Fixes
+
+* Update dependencies.sh to not break on mac ([#384](https://www.github.com/googleapis/java-shared-dependencies/issues/384)) ([0ae2841](https://www.github.com/googleapis/java-shared-dependencies/commit/0ae2841d7ce2885d041795c58a38d2d3973c2e5a))
+
+
+### Dependencies
+
+* update dependency com.google.api:api-common to v1.10.4 ([#385](https://www.github.com/googleapis/java-shared-dependencies/issues/385)) ([5f2b39b](https://www.github.com/googleapis/java-shared-dependencies/commit/5f2b39b5bdc4cec9d5ab2f050e11000ed372d057))
+* update dependency com.google.api:gax-grpc to v1.65.1 ([#382](https://www.github.com/googleapis/java-shared-dependencies/issues/382)) ([a2a1547](https://www.github.com/googleapis/java-shared-dependencies/commit/a2a15471dee21207a0b97b3bc8f6f59d6a4a2d13))
+* update dependency com.google.protobuf:protobuf-bom to v3.17.3 ([#379](https://www.github.com/googleapis/java-shared-dependencies/issues/379)) ([6f43eb5](https://www.github.com/googleapis/java-shared-dependencies/commit/6f43eb553dca98140d343bee3f1003096d79ee6c))
+* update dependency io.grpc:grpc-bom to v1.38.1 ([#386](https://www.github.com/googleapis/java-shared-dependencies/issues/386)) ([7b1d4cf](https://www.github.com/googleapis/java-shared-dependencies/commit/7b1d4cf317fbd75b91d6a63f82b5fc2f46eaf3ca))
+* update google.core.version to v1.95.1 ([#381](https://www.github.com/googleapis/java-shared-dependencies/issues/381)) ([4496153](https://www.github.com/googleapis/java-shared-dependencies/commit/44961532f621b0ab19e9e7feebb7d588aef5d423))
+* update google.core.version to v1.95.2 ([#383](https://www.github.com/googleapis/java-shared-dependencies/issues/383)) ([7216859](https://www.github.com/googleapis/java-shared-dependencies/commit/7216859bcd67fa1ce1119831c33c50a2d5b79324))
+
 ## [1.3.0](https://www.github.com/googleapis/java-shared-dependencies/compare/1.2.0...v1.3.0) (2021-06-03)
 
 
